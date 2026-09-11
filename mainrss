@@ -1,6 +1,10 @@
-627332635 #skyup
-627331779 #skyft
-627331733 #skydn
-627331549 #skybk
-627331981 #skyrt
-627331893 #skylt
+{
+  "skybox": {
+    "Beautifulmorning-nosun UP": "627332635",
+    "Beautifulmorning-nosun FT": "627331779",
+    "Beautifulmorning-nosun DN": "627331733",
+    "Beautifulmorning-nosun BK": "627331549",
+    "Beautifulmorning-nosun RT": "627331981",
+    "Beautifulmorning-nosun LT": "627331893"
+  }
+}
